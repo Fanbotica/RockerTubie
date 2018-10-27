@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="benvenuto-su-rockertubie-github">Benvenuto su RockerTubie GitHub!</h1>
 <p><em>Rocker Tubie</em> è un progetto di rover a sei ruote autocostruibile, economico, robusto e modulabile realizzato e presentato al <strong>Maker Faire Europe</strong> che si è tenuto a Roma dal 12 al 14 Ottobre 2018, nel corso del quale ha riscosso un enorme successo di pubblico.<br>
