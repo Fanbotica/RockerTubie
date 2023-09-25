@@ -32,29 +32,8 @@ public:
 class InitPin
 {
 private:
-//  byte pinGlobX;  // pin utilizzato per servo X
-//  byte pinGlobY;  // pin utilizzato per servo Y
-//  byte pinGlobH;  // pin utilizzato per servo H
-//  byte pinGlobT;  // pin utilizzato per servo T
-//  byte pinGlobS;  // pin utilizzato per servo S
-//  byte pinGlobA;  // pin utilizzato per servo A
-//  byte pinGlobB;  // pin utilizzato per servo B
 
 public:
-//  void initx (byte pinServX);
-//  void inity (byte pinServY);  
-//  void inith (byte pinServH);  
-//  void initt (byte pinServT);  
-//  void inits (byte pinServS);
-//  void inita (byte pinActuA);
-//  void initb (byte pinActuB);    
-//  void wrx(void);
-//  void wry(void);
-//  void wrh(void);
-//  void wrt(void);
-//  void wrs(void);
-//  void wra(void);
-//  void wrb(void);
 
   int ValX();
   int ValY();
